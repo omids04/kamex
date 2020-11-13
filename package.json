@@ -1,0 +1,22 @@
+{
+  "name": "kamex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omids04/kamex.git"
+  },
+  "author": "space cowboy",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/omids04/kamex/issues"
+  },
+  "homepage": "https://github.com/omids04/kamex#readme"
+}
